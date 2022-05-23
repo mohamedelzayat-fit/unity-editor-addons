@@ -5,9 +5,7 @@
   "unity": "2020.3",
   "author": "Mohamed ElZayyat",
   "description": "Editor addon package, contains namespace generator, DLL compilation handling for mobile devices and misc. editor extensions ",
-  "dependencies": { 
-    "com.unity.render-pipelines.universal" : "10.8.1"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/mohamedelzayat-fit/unity-editor-addons"
